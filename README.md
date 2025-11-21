@@ -71,7 +71,7 @@ A comprehensive full-stack web application for managing warehouse inventory oper
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/vinod-45-vinod/Warehouse-Inventory-Management-System.git
+git clone https://github.com/neuron-echo/Warehouse-Inventory-Management-System.git 
 cd Warehouse-Inventory-Management-System
 ```
 
@@ -300,11 +300,10 @@ This project is created for educational purposes as part of Database Management 
 
 ## 🤝 Support
 
-For questions or issues, please contact:
-- Email: vinodgr2005@gmail.com
-- GitHub Issues: https://github.com/vinod-45-vinod/Warehouse-Inventory-Management-System/issues
+
 
 ---
 
 **Built with ❤️ using React, Node.js, and MySQL**
 #
+
