@@ -307,3 +307,5 @@ For questions or issues, please contact:
 ---
 
 **Built with ❤️ using React, Node.js, and MySQL**
+#   W a r e h o u s e - I n v e n t o r y - M a n a g e m e n t - S y s t e m  
+ 
